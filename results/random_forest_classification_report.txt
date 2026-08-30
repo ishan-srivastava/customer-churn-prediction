@@ -1,0 +1,18 @@
+Random Forest holdout evaluation
+
+Accuracy: 0.94
+Precision: 0.90
+Recall: 1.00
+
+Confusion Matrix:
+[[38372  6387]
+ [  170 56113]]
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.86      0.92     44759
+           1       0.90      1.00      0.94     56283
+
+    accuracy                           0.94    101042
+   macro avg       0.95      0.93      0.93    101042
+weighted avg       0.94      0.94      0.93    101042

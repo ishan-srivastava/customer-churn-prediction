@@ -1,0 +1,4 @@
+Model,True Negative,False Positive,False Negative,True Positive
+Decision Tree,39468,5291,6452,49831
+Random Forest,38372,6387,170,56113
+XGBoost,38378,6381,332,55951
